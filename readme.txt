@@ -1,2 +1,2 @@
-#This is mycopa version control systom
-#mycopa is free software
+#This is mycoap version control systom
+#mycoap is free software
